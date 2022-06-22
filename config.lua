@@ -13,7 +13,7 @@ Config.MugShotCamera = {
     r = {x = 0.0, y = 0.0, z = 358.04} -- To change the rotation use the z. Others are if you want rotation on other axis
 }
 
-Config.BoardHeader = "Los Santos Police Department" -- Header that appears on the board
+Config.BoardHeader = "Havenstad Politie" -- Header that appears on the board
 Config.WaitTime = 2000 -- Time before and after the photo is taken. Decreasing this value might result in some angles being skiped.
 Config.Photos = 4 -- Front, Back Side. Use 4 for both sides
-Config.CQCMDT = true -- If you use CQC MDT this will automatically send them to a players profile
+Config.CQCMDT = false -- If you use CQC MDT this will automatically send them to a players profile
